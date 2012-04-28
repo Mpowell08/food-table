@@ -1,0 +1,201 @@
+<?xml version="1.0"?>
+<pantry>
+	<food>
+		<item>Cookies</item>
+		<life>7</life>
+	</food>
+	<food>
+		<item>Cupcakes</item>
+		<life>9</life>
+	</food>
+	<food>
+		<item>Bagels </item>
+		<life>12</life>
+	</food>
+	<food>
+		<item>English Muffins </item>
+		<life>12</life>
+	</food>
+	<food>
+		<item>Hamburger Buns </item>
+		<life>12</life>
+	</food>
+	<food>
+		<item>Hot Dog Buns </item>
+		<life>12</life>
+	</food>
+	<food>
+		<item>Toufayan Bagels </item>
+		<life>12</life>
+	</food>
+	<food>
+		<item>Cream Cheese Danish </item>
+		<life>14</life>
+	</food>
+	<food>
+		<item>Dinner Rolls </item>
+		<life>14</life>
+	</food>
+	<food>
+		<item>Large pound cakes </item>
+		<life>14</life>
+	</food>
+	<food>
+		<item>Light Original Ovals </item>
+		<life>14</life>
+	</food>
+	<food>
+		<item>Multi-Grain Ovals </item>
+		<life>14</life>
+	</food>
+	<food>
+		<item>Sweet Rolls </item>
+		<life>19</life>
+	</food>
+	<food>
+		<item>Banana Nut Loaf </item>
+		<life>21</life>
+	</food>
+	<food>
+		<item>Cinnamon Bites </item>
+		<life>21</life>
+	</food>
+	<food>
+		<item>Cinnamon Rolls </item>
+		<life>21</life>
+	</food>
+	<food>
+		<item>Cookie Bites </item>
+		<life>21</life>
+	</food>
+	<food>
+		<item>Donut Holes </item>
+		<life>21</life>
+	</food>
+	<food>
+		<item>Ice Lemon Pound Cake </item>
+		<life>21</life>
+	</food>
+	<food>
+		<item>Macaroons </item>
+		<life>21</life>
+	</food>
+	<food>
+		<item>Mini Donuts </item>
+		<life>21</life>
+	</food>
+	<food>
+		<item>Muffins </item>
+		<life>21</life>
+	</food>
+	<food>
+		<item>Donut Gems </item>
+		<life>23</life>
+	</food>
+	<food>
+		<item>Yellow &amp; White Frosted Cookies </item>
+		<life>28</life>
+	</food>
+	<food>
+		<item>Angel food Cake </item>
+		<life>29</life>
+	</food>
+	<food>
+		<item>Dessert Cups </item>
+		<life>29</life>
+	</food>
+	<food>
+		<item>Mini pound cake </item>
+		<life>29</life>
+	</food>
+	<food>
+		<item>Blueberry Yogurt Cake </item>
+		<life>30</life>
+	</food>
+	<food>
+		<item>Butter Cake </item>
+		<life>30</life>
+	</food>
+	<food>
+		<item>Chocolate Covered Donuts </item>
+		<life>30</life>
+	</food>
+	<food>
+		<item>Coffiee Cake </item>
+		<life>30</life>
+	</food>
+	<food>
+		<item>Frosted Honey Bun </item>
+		<life>30</life>
+	</food>
+	<food>
+		<item>Fudge Brownie </item>
+		<life>30</life>
+	</food>
+	<food>
+		<item>Madeleines Petite </item>
+		<life>30</life>
+	</food>
+	<food>
+		<item>Glazed Donuts </item>
+		<life>42</life>
+	</food>
+	<food>
+		<item>Glazed Honey Bun </item>
+		<life>42</life>
+	</food>
+	<food>
+		<item>Golden Sliced Cake </item>
+		<life>45</life>
+	</food>
+	<food>
+		<item>Petite Bronwie Bites </item>
+		<life>45</life>
+	</food>
+	<food>
+		<item>Toufayan Wraps </item>
+		<life>45</life>
+	</food>
+	<food>
+		<item>Tuxedo Chocolate Chip Cake </item>
+		<life>45</life>
+	</food>
+	<food>
+		<item>Coffee Cakes </item>
+		<life>53</life>
+	</food>
+	<food>
+		<item>Cupcakes </item>
+		<life>53</life>
+	</food>
+	<food>
+		<item>Danish Rolls </item>
+		<life>53</life>
+	</food>
+	<food>
+		<item>Dunkin Sticks </item>
+		<life>53</life>
+	</food>
+	<food>
+		<item>Honey Buns </item>
+		<life>53</life>
+	</food>
+	<food>
+		<item>Zingers </item>
+		<life>53</life>
+	</food>
+	<food>
+		<item>Marshmallow Mania Bar </item>
+		<life>90</life>
+	</food>
+	<food>
+		<item>Bronwies </item>
+		<life>103</life>
+	</food>
+	<food>
+		<item>Petite Palmiers </item>
+		<life>270</life>
+	</food>
+
+
+</pantry>

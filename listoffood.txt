@@ -1,0 +1,49 @@
+Cookies 7
+Cupcakes 9
+Bagels 12
+English Muffins 12
+Hamburger Buns 12
+Hot Dog Buns 12
+Toufayan Bagels 12
+Cream Cheese Danish 14
+Dinner Rolls 14
+Large pound cakes 14
+Light Original Ovals 14
+Multi-Grain Ovals 14
+Sweet Rolls 19
+Banana Nut Loaf 21
+Cinnamon Bites 21
+Cinnamon Rolls 21
+Cookie Bites 21
+Donut Holes 21
+Ice Lemon Pound Cake 21
+Macaroons 21
+Mini Donuts 21
+Muffins 21
+Donut Gems 23
+Yellow & White Frosted Cookies 28
+Angel food Cake 29
+Dessert Cups 29
+Mini pound cake 29
+Blueberry Yogurt Cake 30
+Butter Cake 30
+Chocolate Covered Donuts 30
+Coffiee Cake 30
+Frosted Honey Bun 30
+Fudge Brownie 30
+Madeleines Petite 30
+Glazed Donuts 42
+Glazed Honey Bun 42
+Golden Sliced Cake 45
+Petite Bronwie Bites 45
+Toufayan Wraps 45
+Tuxedo Chocolate Chip Cake 45
+Coffee Cakes 53
+Cupcakes 53
+Danish Rolls 53
+Dunkin Sticks 53
+Honey Buns 53
+Zingers 53
+Marshmallow Mania Bar 90
+Bronwies 103
+Petite Palmiers 270
