@@ -1,2 +1,3 @@
+Displays a page with Pastry items and the date they should be pulled. Coded in PHP. 
 Todo:
-Add sorting 
+implement list with a database instead of a txt file
